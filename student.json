@@ -1,0 +1,28 @@
+{"admissionNo": "1111",
+  "batch": 15,
+  "birthDate": "01/01/1890",
+  "company": {
+    "address": {
+      "city": "McLean",
+      "state": "Virginia",
+      "street": "7925 Jones Branch Dr",
+      "zipCode": 22102
+    },
+    "companyName": "Barcelona",
+    "startDate": "02/02/2001",
+    "title": "SDET"
+  },
+  "contact": {
+    "emailAddress": "messi_goat@gmail.com",
+    "phone": "240-123-1231",
+    "premanentAddress": "7925 Jones Branch Dr"
+  },
+  "firstName": "MESSI",
+  "gender": "Males",
+  "joinDate": "01/01/3321",
+  "lastName": "10",
+  "major": "SOCCER",
+  "password": "1234",
+  "section": "101010",
+  "subject": "Forward"
+}
